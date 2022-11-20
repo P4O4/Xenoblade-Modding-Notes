@@ -1,3 +1,4 @@
+Youtube video: https://youtu.be/88Edgxo5ysE
 # Xenoblade modding notes (Dolphin .iso)
 
 (Dolphin itself contains gecko code mods and supports custom textures)
